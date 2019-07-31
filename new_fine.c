@@ -5,6 +5,6 @@ include "stdio.h"
 int main(void)
 {
     printf("hello world!\n");
-    
+    printf("vscode add a new line\n");
     return 0;
 }
